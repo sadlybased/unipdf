@@ -1,5 +1,8 @@
 # UniPDF - PDF for Go
 
+> [!NOTE]
+> This version of UniPDF has all license checks and telemetry removed
+
 [UniDoc](http://unidoc.io) UniPDF is a PDF library for Go (golang) with capabilities for
 creating and reading, processing PDF files. The library is written and supported by 
 [FoxyUtils.com](https://foxyutils.com), where the library is used to power many of its services. 
